@@ -1,0 +1,9 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "jsx": "react",
+    "moduleResolution": "node"
+  }
+}
